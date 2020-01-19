@@ -257,9 +257,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",漫威系列
 http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-#EXTINF:-1,group-title="[HY美片]",复仇者联盟A
-http://aldirect.hls.huya.com/huyalive/28466698-2689652032-11551967515059945472-2847687604-10057-A-1525509264-1.m3u8
-#EXTINF:-1,group-title="[HY美片]",复仇者联盟B
+#EXTINF:-1,group-title="[HY美片]",漫威影评
 http://tx.hls.huya.com/huyalive/30765679-2743063560-11781368281049333760-3048991606-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",变形金刚
 http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
