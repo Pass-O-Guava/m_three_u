@@ -1,13 +1,7 @@
-
-#EXTINF:-1,group-title="[央视]", tvg-logo="https://img.alicdn.com/imgextra/i4/1592444982/O1CN01Vi2Sly1mfnmPc5dC1_!!1592444982.png" tvg-name="CCTV1",CCTV1
-http://183.194.230.140/tlivecloud-cdn.ysp.cctv.cn/8BD8819626A901D9D1A89FDACDC572E5266DE6A18E50EF26C62481C47CF88670456FAED39A88E723511783950A48305D4D7467D31528ED9F53F5CB67B05DF593E1712BEBF7954CA67CC9D82083784514A15685F2507A1D4A5E4A8C9BFC386FE0/2000210103.m3u8
-
 #EXTINF:-1,group-title="[爱奇艺]",爱奇艺_电影大片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 #EXTINF:-1,group-title="[爱奇艺]",爱奇艺_美国电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
-#EXTINF:-1,group-title="[爱奇艺]",爱奇艺_五星影院
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 #EXTINF:-1,group-title="[爱奇艺]",爱奇艺_动作电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 #EXTINF:-1,group-title="[爱奇艺]",爱奇艺_黑帮电影
@@ -35,37 +29,27 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",速度激情
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
-#EXTINF:-1,group-title="[HY美片]",末日生存
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",生化危机
 http://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.m3u8
-#EXTINF:-1,group-title="[HY美片]",古墓丽影
-http://aldirect.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",异形怪物
 http://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",喪尸電影
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",災難大片
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1,group-title="[HY美片]",怪物科幻
-http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",好莱坞动作
 http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1.m3u8
-#EXTINF:-1,group-title="[HY港片]",美国大片
-http://tx.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
 
-#EXTINF:-1,group-title="[HY港片]",周星驰
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",沈腾
 http://tx.hls.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",徐峥
 http://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1,group-title="[HY港片]",吴京
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",成龙
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",李连杰
 http://aldirect.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
-#EXTINF:-1,group-title="[HY港片]",吴京
-http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",甄子丹
 http://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",洪金宝
@@ -74,6 +58,8 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",周润发
 http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1,group-title="[HY港片]",周星驰
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",林正英
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",女神系列
@@ -82,8 +68,10 @@ http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",大陸電影
 http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1,group-title="[HY美片]",韩国電影
+#EXTINF:-1,group-title="[HY港片]",韩国電影
 http://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1.m3u8
+#EXTINF:-1,group-title="[HY港片]",其他电影
+http://tx.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
 
 #EXTINF:-1,group-title="[HY喜剧]",Running Man
 http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
