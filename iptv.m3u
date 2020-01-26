@@ -94,8 +94,6 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpia
 #EXTINF:-1,group-title="[爱奇艺]",爱奇艺-TESTV
 http://cdn-out.iqy.sc96655.com/tslive/c16_lb_bojinew_1080p_t10/c16_lb_bojinew_1080p_t10.m3u8
 
-#EXTINF:-1,group-title="[HY美片]",超级英雄
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",复联科幻
 http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY美片]",漫威電影
@@ -174,3 +172,18 @@ http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2
 http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1.m3u8
 #EXTINF:-1,group-title="[HY喜剧]",美食纪录片
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1.m3u8
+
+#EXTINF:-1,海绵宝宝
+http://aldirect.hls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.m3u8
+
+#EXTINF:-1,杰森斯坦森
+http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1.m3u8
+
+#EXTINF:-1,龙门镖局
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8
+
+#EXTINF:-1,欢乐颂
+http://tx.hls.huya.com/huyalive/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1.m3u8
+
+#EXTINF:-1,反贪风暴系列00
+http://tx.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
