@@ -51,8 +51,6 @@ http://ivi.bupt.edu.cn/hls/jshd.m3u8
 http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 #EXTINF:-1,三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1,动物星球
-http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
 #EXTINF:-1,France-24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
@@ -163,8 +161,6 @@ http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991
 http://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",其他电影
 http://tx.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
-#EXTINF:-1,group-title="[HY港片]",反贪风暴
-http://tx.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
 
 #EXTINF:-1,group-title="[HY喜剧]",Running Man
 http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
@@ -190,5 +186,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2
 http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1.m3u8
 #EXTINF:-1,group-title="[HY喜剧]",美食纪录片
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1.m3u8
+#EXTINF:-1,动物星球
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1,海绵宝宝
 http://aldirect.hls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.m3u8
