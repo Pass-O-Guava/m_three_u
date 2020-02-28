@@ -7,7 +7,7 @@ http://cctvcnch5ca.v.wscdns.com/live/cctv3_2/10793.m3u8
 #EXTINF:-1,CCTV4
 http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
 #EXTINF:-1,CCTV5
-http://cctvcnch5ca.v.wscdns.com/live/cctv5_2/10793.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B
 #EXTINF:-1,CCTV6
 http://cctvcnch5ca.v.wscdns.com/live/cctv6_2/10793.m3u8
 #EXTINF:-1,CCTV7
@@ -24,8 +24,14 @@ http://cctvcnch5ca.v.wscdns.com/live/cctv11_2/10793.m3u8
 http://cctvcnch5ca.v.wscdns.com/live/cctv12_2/10793.m3u8
 #EXTINF:-1,CCTV13
 http://cctvcnch5ca.v.wscdns.com/live/cctv13_2/10793.m3u8
-#EXTINF:-1,香港卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF:-1,CCTV-5+
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+
+#EXTINF:-1,FOX1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,博斯魅力网
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
 #EXTINF:-1,北京卫视高清
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1,北京文艺高清
@@ -36,11 +42,17 @@ http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1,湖南卫视高清
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
- 
 #EXTINF:-1,浙江卫视高清
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1,江苏卫视高清
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
+
+#EXTINF:-1,香港卫视
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF:-1,三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1,动物星球
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
 #EXTINF:-1,France-24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
@@ -116,6 +128,8 @@ http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1,group-title="[HY美片]",好莱坞动作
 http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1.m3u8
+#EXTINF:-1,group-title="[HY美片]",杰森斯坦森
+http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1.m3u8
 
 #EXTINF:-1,group-title="[HY港片]",沈腾
 http://tx.hls.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
@@ -149,6 +163,8 @@ http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991
 http://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1.m3u8
 #EXTINF:-1,group-title="[HY港片]",其他电影
 http://tx.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
+#EXTINF:-1,group-title="[HY港片]",反贪风暴
+http://tx.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
 
 #EXTINF:-1,group-title="[HY喜剧]",Running Man
 http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
@@ -164,24 +180,15 @@ http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY喜剧]",老友记
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
+#EXTINF:-1,group-title="[HY喜剧]",龙门镖局
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8
+#EXTINF:-1,group-title="[HY喜剧]",欢乐颂
+http://tx.hls.huya.com/huyalive/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY喜剧]",荒野求生
 http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="[HY喜剧]",单挑荒野
 http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1.m3u8
 #EXTINF:-1,group-title="[HY喜剧]",美食纪录片
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1.m3u8
-
 #EXTINF:-1,海绵宝宝
 http://aldirect.hls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.m3u8
-
-#EXTINF:-1,杰森斯坦森
-http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1.m3u8
-
-#EXTINF:-1,龙门镖局
-http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8
-
-#EXTINF:-1,欢乐颂
-http://tx.hls.huya.com/huyalive/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1.m3u8
-
-#EXTINF:-1,反贪风暴系列00
-http://tx.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
